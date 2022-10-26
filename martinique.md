@@ -8,9 +8,9 @@ Les plages de sable blanc se situent principalement dans le Sud de la Martinique
 
 <img src="https://www.voyageursdumonde.fr/voyage-sur-mesure/magazine-voyage/ShowPhoto/292/0"/>
 
-Pour vous rendre cliquez <a href="/usa.md">ici</a>
+Pour vous rendre aux USA cliquez <a href="/usa.md">ici</a>
 
-Pour vous rendre cliquez <a href="/republiquedominicaine.md">ici</a>
+Pour vous rendre en Republique Dominicaine cliquez <a href="/republiquedominicaine.md">ici</a>
 
 
 BELKACEM Masten
