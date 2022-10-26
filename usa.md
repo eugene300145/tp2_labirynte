@@ -6,7 +6,7 @@ Dans la région du Midwest, la métropole de Chicago est connue pour son archite
 
 <img src="https://static5.depositphotos.com/1030296/395/i/600/depositphotos_3958211-stock-photo-new-york-cityscape-tourism-concept.jpg"/>
 
-Pour vous rendre en République Dominicaine cliquez <a href="/republique_dominicaine.md">ici</a>
+Pour vous rendre en République Dominicaine cliquez <a href="/republiquedominicaine.md">ici</a>
 
 Pour vous rendre en Martinique cliquez <a href="/martinique.md">ici</a>
 
