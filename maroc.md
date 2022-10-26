@@ -10,7 +10,7 @@ Regardez moi cette MAGNIFIQUE architecture !
 
 Pour vous rendre en France cliquez <a href="/france.md">ici</a>
 
-Pour vous rendre en France cliquez <a href="/egypte.md">ici</a>
+Pour vous rendre en Egypte cliquez <a href="/egypte.md">ici</a>
 
 Djamal-din CAMILLE
 
