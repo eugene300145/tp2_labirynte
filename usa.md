@@ -8,4 +8,6 @@ Dans la région du Midwest, la métropole de Chicago est connue pour son archite
 
 Pour vous rendre en République Dominicaine cliquez <a href="/republique_dominicaine.md">ici</a>
 
+Pour vous rendre en Martinique cliquez <a href="/martinique.md">ici</a>
+
 BELKACEM Masten
