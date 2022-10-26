@@ -6,7 +6,7 @@ Voici une belle image de la ville de Paris aussi appelé la ville de l'amour.
 
 Pour vous rendre en Italie cliquez <a href="/italie.md">ici</a>
 
-Pour vous rendre en Allemagne <a href="/Allemagne.md">ici</a>
+Pour vous rendre en Allemagne <a href="/allemagne.md">ici</a>
 
 Pour vous rendre au Maroc <a href="/maroc.md">ici</a>
  
