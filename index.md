@@ -1,7 +1,6 @@
-Bonjour vous etes dans le labyrinthe du groupe 5
+Bonjour, vous êtes désormais plongé et probablement bloqué à jamais dans le labyrinthe du groupe 5 !
+Précipitez vous et décollez vers la prochaine destination pour tenter de vous echapper
 
-<img src="https://www.inc-conso.fr/sites/default/files/avion-800_1.png"/>
+<img src="https://substance.etsmtl.ca/wp-content/uploads/2020/11/decollage-0.jpg"/>
 
-cliquez <a href="/france.md">ici</a> pour commencer le voyage 
-
-
+cliquez <a href="/france.md">ici</a> pour commencer votre long (très loooong) voyage...
