@@ -1,11 +1,12 @@
 Bonjour et bienvenue en Algérie,
 
-Le tourisme est une activité importante, aussi bien pour les Algériens qui choisissent d'y passer leurs vacances, 
-que pour les étrangers qui viennent y faire un séjour. L'Algérie est le pays le plus grand du continent africain et
-le 10e pays le plus grand au monde en superficie totale. 
+L’Algérie est de par sa superficie, le plus grand pays du continent africain, du monde arabe, et du pourtour méditerranéen et
+le 10e pays le plus grand au monde en superficie totale. Dans sa partie sud, il intègre une grande part du Sahara. Un climat méditerranéen couvre le Nord, tandis qu’un climat désertique se fait sentir au Sud.
 
+L’une des plus belles manières de visiter ce pays reste le 4×4, pour vous assurez confort et accessibilité partout. Vous pouvez vous procurer une voiture d’occasion en Algérie, qui est parfois plus intéressant que de louer chez un marchand international, sur des sites d’annonces comme celui-ci.
+Du fait de sa situation géographique, l’Algérie jouit d’un environnement aussi impressionnant que varié avec de vastes chaînes montagneuses : Aurès (Batna, Khenchela, Oum-El-Bouaghi, Aïn M’lila, Souk-Ahras, Guelma, Biskra) et Nememcha (Tebessa) qui s’élèvent sur la totalité de l’Est algérien et sont délimitées par la frontière tunisienne. Le point culminant est le mont Chélia (2 328 mètres).
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Makam_chahid.jpg/1024px-Makam_chahid.jpg"/>
+<img src="https://www.visa-algerie.com/wp-content/uploads/2020/07/alger-monument.jpg"/>
 
 Pour vous rendre en Italie, cliquez <a href="/italie.md">ici</a>
 
