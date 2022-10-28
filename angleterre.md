@@ -4,7 +4,7 @@ Si pour beaucoup sa découverte se limite à une virée à Londres, la région n
 avec aussi bien de belles villes (Bath, Cambridge, Canterbury...) qu'une nature sauvage (Cornouailles, Lake et Peak Districts, Exmoor National Park...).
 
 
-<img src="https://www.terres-oceans.com/wp-content/uploads/2017/10/voyage-grande-bretagne-768x342.jpg"/>
+<img src="https://www.terres-oceans.com/wp-content/uploads/2017/10/voyage-grande-bretagne-768x342.jpg" height=500px max-width=100px/>
 
 Pour vous rendre au Danemark cliquez <a href="/danemark.md">ici</a>
 
