@@ -6,7 +6,9 @@ Rabat, la capitale du Maroc, est bâtie sur les rives du fleuve Bouregreg et de 
 
 Regardez moi cette MAGNIFIQUE architecture !
 
+<a href="/secret.md"> 
 <img src="https://cdn.redshift.autodesk.com/sites/5/2019/04/theatre_rabat_header.jpg" title="vous pouvez cliquer"/>
+</a>
 
 Pour vous rendre en France cliquez <a href="/france.md">ici</a>
 
