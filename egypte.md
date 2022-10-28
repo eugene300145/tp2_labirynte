@@ -1,6 +1,6 @@
 Bonjour et bienvenue en Egypte
 
-L'un des meilleurs endroits d'Egypte pour faire du snorkeling ! Excursion à Ora>
+L'un des meilleurs endroits d'Egypte pour faire du snorkeling.
 
 
 
