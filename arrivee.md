@@ -1,10 +1,10 @@
 
-FELICITATIONS!!!!
+<p align="center">FELICITATIONS!!!!
 
-Tu t'en es sorti! Tu n'es pas un rat de Labyrinthe!!
+<p align="center">Tu t'en es sorti! Tu n'es pas un rat de Labyrinthe!!
 
-<img src="https://tse1.mm.bing.net/th?id=OIP.hFZEs38w05EuGWsqUYkp2AHaFj&pid=Api&P=0" height=500px max-width=100px/>
+<p align="center"><img src="https://tse1.mm.bing.net/th?id=OIP.hFZEs38w05EuGWsqUYkp2AHaFj&pid=Api&P=0" height=500px max-width=100px/>
 
 
 
-Imad FIKARA
+<p align="center">Imad FIKARA
