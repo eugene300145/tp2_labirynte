@@ -1,1 +1,3 @@
-test
+Il semblerait qu'une salle secrète se cachait dans ce batiment, vous vous retrouvez téléporté dans un monde parallèle, mais vers ou vous menera ce portail...
+
+<a href="">CONTINUER L'AVENTURE</a>
